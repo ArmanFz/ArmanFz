@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋:
-My name is Arman Forouzesh.I hold an MSc in Electrical Engineering (Control) from K.N. Toosi University of Technology, with expertise in artificial intelligence, computer vision, and deep learning. I am passionate about learning and deeply interested in my field of research, with a strong enthusiasm for exploring new concepts and
+My name is Arman Forouzesh. I hold an MSc in Electrical Engineering (Control) from K.N. Toosi University of Technology, with expertise in artificial intelligence, computer vision, and deep learning. I am passionate about learning and deeply interested in my field of research, with a strong enthusiasm for exploring new concepts and
 advancements.<br>
 
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
