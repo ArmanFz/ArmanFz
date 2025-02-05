@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=ArmanFz)
+
 
 <!--
 ## Hi there 👋
@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 -->
 # Hi there 👋:
 🌟I am Arman Forouzesh!<br>I hold an MSc in Electrical Engineering (Control) from K.N. Toosi University of Technology, with expertise in artificial intelligence, computer vision, and deep learning. I am passionate about learning and deeply interested in my field of research, with a strong enthusiasm for exploring new concepts and
-advancements.
-
-
+advancements.<br>
+![](https://komarev.com/ghpvc/?username=ArmanFz)
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:armanforouz0@gmail.com) 
 
